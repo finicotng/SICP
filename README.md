@@ -1,12 +1,10 @@
 SICP
 ====
-progress: 1.2 (47)
-====
 
-SICP book exercises
+*progress: 1.2 (47)*
 
-вопросы
-
+**SICP book exercises**  
+*вопросы:*  
 e-1.5 не могу объяснить  
 e-1.6 не могу объяснить  
 e-1.7  
