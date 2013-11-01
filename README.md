@@ -1,5 +1,7 @@
 SICP
 ====
+progress: 1.2 (47)
+====
 
 SICP book exercises
 
